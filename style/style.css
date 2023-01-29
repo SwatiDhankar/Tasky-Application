@@ -17,3 +17,15 @@ body{
     padding: 15px 10px;
     z-index: 3;
 }
+
+.card-header{
+    background: #7ecffb !important;
+}
+
+.card-footer{
+    background: #7ecffb !important;
+}
+
+.modal-header{
+    background: #7ecffb !important;
+}
